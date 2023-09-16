@@ -1,1 +1,17 @@
-console.log('mean app')
+const express = require("express");
+const app = express();
+
+//setting
+app.set('port',process.env.PORT || 3000);
+
+
+app.listen(app.get('port'),()=>{
+
+
+    
+
+
+    console.log('dddl')
+
+
+});
