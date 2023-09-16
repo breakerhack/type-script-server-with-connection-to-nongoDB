@@ -1,1 +1,1 @@
-con
+console.log('mean app')
